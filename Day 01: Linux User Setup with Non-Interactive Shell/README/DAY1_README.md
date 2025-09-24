@@ -23,7 +23,7 @@ A non-interactive shell in Linux is a shell that executes commands without requi
 Use SSH or direct access to log in as a user with sudo privileges.  
 
 ```bash
-Step 1: ssh root@App-server-2-IP ```enf
+Step 1: ssh root@App002
 Step 2: Create the user with a non-interactive shell
 sudo useradd javed --shell /sbin/nologin
 
