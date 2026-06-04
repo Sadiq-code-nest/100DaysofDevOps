@@ -41,7 +41,7 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 
 | Day | Challenge | Core Concept | Status |
 |-----|-----------|--------------|--------|
-| [01](./Day 01: Linux User Setup with Non-Interactive Shell/README_DAY1.md/) | Linux User Setup | `useradd`, non-interactive shell | ✅ |
+| [01](./Day 01: Linux User Setup with Non-Interactive Shell/) | Linux User Setup | `useradd`, non-interactive shell | ✅ |
 | [02](./Day_02/) | Temporary User with Expiry | `useradd -e`, account expiry | ✅ |
 | [03](./Day_03/) | Secure SSH Root Access | `sshd_config`, PermitRootLogin | ✅ |
 | [04](./Day_04/) | Script Execute Permissions | `chmod`, numeric/octal modes | ✅ |
