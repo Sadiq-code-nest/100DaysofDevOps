@@ -25,7 +25,7 @@
 
 ## 🗺️ What This Repo Is
 
-This isn't just a collection of commands — it's a **learning diary**.
+This isn't just a collection of commands. it's a **learning diary**.
 
 Every day contains:
 - 📜 **`solution.sh`** — step-by-step commented script (the _why_, not just the _what_)
@@ -41,7 +41,7 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 
 | Day | Challenge | Core Concept | Status |
 |-----|-----------|--------------|--------|
-| [01](./Day 01: Linux User Setup with Non-Interactive Shell/) | Linux User Setup | `useradd`, non-interactive shell | ✅ |
+| [01](./Day%2001:%20Linux%20User%20Setup%20with%20Non-Interactive%20Shell/README_DAY1.md) | Linux User Setup | `useradd`, non-interactive shell | ✅ |
 | [02](./Day_02/) | Temporary User with Expiry | `useradd -e`, account expiry | ✅ |
 | [03](./Day_03/) | Secure SSH Root Access | `sshd_config`, PermitRootLogin | ✅ |
 | [04](./Day_04/) | Script Execute Permissions | `chmod`, numeric/octal modes | ✅ |
@@ -51,19 +51,8 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [08](./Day_08/) | Setup Ansible | `pip3`, global vs user install | ✅ |
 | [09](./Day_09/) | Debug MariaDB | `systemctl`, `chown`, service debugging | ✅ |
 | [10](./Day_10/) | Bash Backup Script | `zip`, `scp`, bash scripting | ✅ |
-| 11–20 | Coming Soon... | | 🔜 |
+| 11–20 | Coming Soon... | |
 
-### 🔀 Module 2 — Version Control `[Days 21–34]`
-> 🔜 Coming soon
-
-### 🐳 Module 3 — Containerization `[Days 35–47]`
-> 🔜 Coming soon
-
-### ☸️ Module 4 — Kubernetes `[Days 48–67]`
-> 🔜 Coming soon
-
-### ⚙️ Module 5 — CI/CD & IaC `[Days 68–100]`
-> 🔜 Coming soon
 
 ---
 
