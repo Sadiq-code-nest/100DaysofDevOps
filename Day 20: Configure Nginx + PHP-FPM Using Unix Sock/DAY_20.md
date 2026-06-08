@@ -72,4 +72,4 @@ curl http://stapp03:8092/index.php
 
 ---
 
-*Day 20 of 100 | #100DaysOfDevOps #KodeKloud #Nginx #PHP #LEMP*
+*Day 20 of 100 | #100DaysOfDevOps #KodeKloud #Nginx #PHP*
