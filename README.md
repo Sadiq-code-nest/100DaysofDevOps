@@ -41,18 +41,39 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 
 | Day | Challenge | Core Concept | Status |
 |-----|-----------|--------------|--------|
-| [01](./Day%2001:%20Linux%20User%20Setup%20with%20Non-Interactive%20Shell/README_DAY1.md) | Linux User Setup | `useradd`, non-interactive shell | ✅ |
-| [02](./Day_02/) | Temporary User with Expiry | `useradd -e`, account expiry | ✅ |
-| [03](./Day_03/) | Secure SSH Root Access | `sshd_config`, PermitRootLogin | ✅ |
-| [04](./Day_04/) | Script Execute Permissions | `chmod`, numeric/octal modes | ✅ |
-| [05](./Day_05/) | SELinux Install & Disable | SELinux modes, `/etc/selinux/config` | ✅ |
-| [06](./Day_06/) | Setup a Cron Job | `cronie`, `crontab`, cron syntax | ✅ |
-| [07](./Day_07/) | SSH Automation | `ssh-keygen`, `ssh-copy-id`, key pairs | ✅ |
-| [08](./Day_08/) | Setup Ansible | `pip3`, global vs user install | ✅ |
-| [09](./Day_09/) | Debug MariaDB | `systemctl`, `chown`, service debugging | ✅ |
-| [10](./Day_10/) | Bash Backup Script | `zip`, `scp`, bash scripting | ✅ |
-| 11–20 | Coming Soon... | |
+| [01](./Day%2001:%20Linux%20User%20Setup%20with%20Non-Interactive%20Shell/) | Linux User Setup with Non-Interactive Shell | `useradd`, non-interactive shell | ✅ |
+| [02](./Day%2002:%20Temporary%20User%20Setup%20with%20Expiry/) | Temporary User Setup with Expiry | `useradd -e`, account expiry | ✅ |
+| [03](./Day%2003:%20Secure%20Root%20SSH%20Access/) | Secure Root SSH Access | `sshd_config`, PermitRootLogin | ✅ |
+| [04](./Day%2004:%20Script%20Execution%20Permissions/) | Script Execution Permissions | `chmod`, numeric/octal modes | ✅ |
+| [05](./Day%2005:%20SElinux%20Installation%20and%20Configuration/) | SElinux Installation and Configuration | SELinux modes, `/etc/selinux/config` | ✅ |
+| [06](./Day%2006:%20Create%20a%20Cron%20Job/) | Create a Cron Job | `cronie`, `crontab`, cron syntax | ✅ |
+| [07](./Day%2007:%20Linux%20SSH%20Authentication/) | Linux SSH Authentication | `ssh-keygen`, `ssh-copy-id`, key pairs | ✅ |
+| [08](./Day%2008:%20Install%20Ansible/) | Install Ansible | `pip3`, global vs user install | ✅ |
+| [09](./Day%2009:%20MariaDB%20Troubleshooting/) | MariaDB Troubleshooting | `systemctl`, `chown`, service debugging | ✅ |
+| [10](./Day%2010:%20Linux%20Bash%20Scripts/) | Linux Bash Scripts | `zip`, `scp`, bash scripting | ✅ |
+| [11](./Day%2011:%20Install%20and%20Configure%20Tomcat%20Server/) | Install and Configure Tomcat Server | `tomcat`, WAR deploy, port config | ✅ |
+| [12](./Day%2012:%20Linux%20Network%20Services/) | Linux Network Services | port conflicts, `netstat`, `iptables` | ✅ |
+| [13](./Day%2013:%20IPtables%20Installation%20And%20Configuration/) | IPtables Installation And Configuration | firewall rules, rule ordering, persistence | ✅ |
+| [14](./Day%2014:%20Linux%20Process%20Troubleshooting/) | Linux Process Troubleshooting | `ss`, `netstat`, Apache port fix | ✅ |
+| [15](./Day%2015:%20Setup%20SSL%20for%20Nginx/) | Setup SSL for Nginx | SSL/TLS, self-signed cert, `nginx` HTTPS | ✅ |
+| [16](./Day%2016:%20Install%20and%20Configure%20Nginx%20as%20an%20LBR/) | Install and Configure Nginx as an LBR | `upstream`, `proxy_pass`, round-robin | ✅ |
+| [17](./Day%2017:%20Install%20and%20Configure%20PostgreSQL/) | Install and Configure PostgreSQL | `psql`, `CREATE USER`, `GRANT` | ✅ |
+| [18](./Day%2018:%20Install%20and%20Configure%20DB%20Server/) | Install and Configure DB Server | MariaDB, `mysql`, user + DB setup | ✅ |
+| [19](./Day%2019:%20Install%20and%20Configure%20Web%20Application/) | Install and Configure Web Application | Apache subdirectories, `scp -r`, port | ✅ |
+| [20](./Day%2020:%20Configure%20Nginx%20+%20PHP-FPM%20Using%20Unix%20Sock/) | Configure Nginx + PHP-FPM Using Unix Sock | FastCGI, unix socket, PHP-FPM config | ✅ |
 
+
+### 🔀 Module 2 — Version Control `[Days 21–34]`
+> 🔜 Coming soon
+
+### 🐳 Module 3 — Containerization `[Days 35–47]`
+> 🔜 Coming soon
+
+### ☸️ Module 4 — Kubernetes `[Days 48–67]`
+> 🔜 Coming soon
+
+### ⚙️ Module 5 — CI/CD & IaC `[Days 68–100]`
+> 🔜 Coming soon
 
 ---
 
