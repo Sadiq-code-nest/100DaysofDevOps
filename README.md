@@ -64,10 +64,35 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 
 
 ### 🔀 Module 2 — Version Control `[Days 21–34]`
-> 🔜 Coming soon
+
+| Day | Challenge | Core Concept | Status |
+|-----|-----------|--------------|--------|
+| [21](./Day%2021:%20Set%20Up%20Git%20Repository%20on%20Storage%20Server/) | Set Up Git Repository on Storage Server | `git init --bare`, bare repos | ✅ |
+| [22](./Day%2022:%20Clone%20Git%20Repository%20on%20Storage%20Server/) | Clone Git Repository on Storage Server | `git clone`, origin remote | ✅ |
+| [23](./Day%2023:%20Fork%20a%20Git%20Repository/) | Fork a Git Repository | fork vs clone, Gitea UI | ✅ |
+| [24](./Day%2024:%20Git%20Create%20Branches/) | Git Create Branches | `git checkout -b`, branch pointer | ✅ |
+| [25](./Day%2025:%20Git%20Merge%20Branches/) | Git Merge Branches | `git merge`, fast-forward vs 3-way | ✅ |
+| [26](./Day%2026:%20Git%20Manage%20Remotes/) | Git Manage Remotes | `git remote add`, multiple remotes | ✅ |
+| [27](./Day%2027:%20Git%20Revert%20Some%20Changes/) | Git Revert Some Changes | `git revert`, safe undo | ✅ |
+| [28](./Day%2028:%20Git%20Cherry%20Pick/) | Git Cherry Pick | `git cherry-pick`, selective commit copy | ✅ |
+| [29](./Day%2029:%20Manage%20Git%20Pull%20Requests/) | Manage Git Pull Requests | PR workflow, code review, Gitea | ✅ |
+| [30](./Day%2030:%20Git%20hard%20reset/) | Git hard reset | `git reset --hard`, force push | ✅ |
+| [31](./Day%2031:%20Git%20Stash/) | Git Stash | `git stash`, `stash apply`, stash list | ✅ |
+| [32](./Day%2032:%20Git%20Rebase/) | Git Rebase | `git rebase`, linear history | ✅ |
+| [33](./Day%2033:%20Resolve%20Git%20Merge%20Conflicts/) | Resolve Git Merge Conflicts | conflict markers, `rebase --continue` | ✅ |
+| [34](./Day%2034:%20Git%20Hook/) | Git Hook | `post-update`, hook scripts, git tags | ✅ |
 
 ### 🐳 Module 3 — Containerization `[Days 35–47]`
-> 🔜 Coming soon
+
+| Day | Challenge | Core Concept | Status |
+|-----|-----------|--------------|--------|
+| [35](./Day%2035:%20Install%20Docker%20Packages%20and%20Start%20Docker%20Service/) | Install Docker Packages and Start Docker Service | `docker-ce`, Docker repo, systemctl | ✅ |
+| [36](./Day%2036:%20Deploy%20Nginx%20Container%20on%20Application%20Server/) | Deploy Nginx Container on Application Server | `docker run -d`, image tags | ✅ |
+| [37](./Day%2037:%20Copy%20File%20to%20Docker%20Container/) | Copy File to Docker Container | `docker cp`, host-container transfer | ✅ |
+| [38](./Day%2038:%20Pull%20Docker%20Image/) | Pull Docker Image | `docker pull`, `docker tag`, image layers | ✅ |
+| [39](./Day%2039:%20Create%20a%20Docker%20Image%20From%20Container/) | Create a Docker Image From Container | `docker commit`, image snapshot | ✅ |
+| [40](./Day%2040:%20Docker%20EXEC%20Operations/) | Docker EXEC Operations | `docker exec -it`, service inside container | ✅ |
+| 41–47 | Coming soon | | 🔜 |
 
 ### ☸️ Module 4 — Kubernetes `[Days 48–67]`
 > 🔜 Coming soon
