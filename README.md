@@ -92,7 +92,13 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [38](./Day%2038:%20Pull%20Docker%20Image/) | Pull Docker Image | `docker pull`, `docker tag`, image layers | ✅ |
 | [39](./Day%2039:%20Create%20a%20Docker%20Image%20From%20Container/) | Create a Docker Image From Container | `docker commit`, image snapshot | ✅ |
 | [40](./Day%2040:%20Docker%20EXEC%20Operations/) | Docker EXEC Operations | `docker exec -it`, service inside container | ✅ |
-| 41–47 | Coming soon | | 🔜 |
+| [41](./Day%2041:%20Write%20a%20Docker%20File/) | Write a Docker File | `Dockerfile`, `FROM`, `RUN`, `CMD`, `EXPOSE` | ✅ |
+| [42](./Day%2042:%20Create%20a%20Docker%20Network/) | Create a Docker Network | `docker network create`, bridge, subnet | ✅ |
+| [43](./Day%2043:%20Docker%20Ports%20Mapping/) | Docker Ports Mapping | `-p host:container`, port forwarding | ✅ |
+| [44](./Day%2044:%20Write%20a%20Docker%20Compose%20File/) | Write a Docker Compose File | `docker-compose.yml`, volumes, services | ✅ |
+| [45](./Day%2045:%20Resolve%20Dockerfile%20Issues/) | Resolve Dockerfile Issues | build context, COPY paths, sed, SSL | ✅ |
+| 46–47 | Coming soon | | 🔜 |
+
 
 ### ☸️ Module 4 — Kubernetes `[Days 48–67]`
 > 🔜 Coming soon
