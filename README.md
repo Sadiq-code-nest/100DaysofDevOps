@@ -97,7 +97,6 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [43](./Day%2043:%20Docker%20Ports%20Mapping/) | Docker Ports Mapping | `-p host:container`, port forwarding | ✅ |
 | [44](./Day%2044:%20Write%20a%20Docker%20Compose%20File/) | Write a Docker Compose File | `docker-compose.yml`, volumes, services | ✅ |
 | [45](./Day%2045:%20Resolve%20Dockerfile%20Issues/) | Resolve Dockerfile Issues | build context, COPY paths, sed, SSL | ✅ |
-| 46–47 | Coming soon | | 🔜 |
 | [46](./Day%2046:%20Deploy%20an%20App%20on%20Docker%20Containers/) | Deploy an App on Docker Containers | multi-service compose, volumes, env vars | ✅ |
 | [47](./Day%2047:%20Docker%20Python%20App/) | Docker Python App | Python Dockerfile, layer caching, WORKDIR | ✅ |
 
