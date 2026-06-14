@@ -98,10 +98,22 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [44](./Day%2044:%20Write%20a%20Docker%20Compose%20File/) | Write a Docker Compose File | `docker-compose.yml`, volumes, services | ✅ |
 | [45](./Day%2045:%20Resolve%20Dockerfile%20Issues/) | Resolve Dockerfile Issues | build context, COPY paths, sed, SSL | ✅ |
 | 46–47 | Coming soon | | 🔜 |
+| [46](./Day%2046:%20Deploy%20an%20App%20on%20Docker%20Containers/) | Deploy an App on Docker Containers | multi-service compose, volumes, env vars | ✅ |
+| [47](./Day%2047:%20Docker%20Python%20App/) | Docker Python App | Python Dockerfile, layer caching, WORKDIR | ✅ |
 
 
+# Add new Module 4 section (replace "Coming soon"):
 ### ☸️ Module 4 — Kubernetes `[Days 48–67]`
-> 🔜 Coming soon
+
+| Day | Challenge | Core Concept | Status |
+|-----|-----------|--------------|--------|
+| [48](./Day%2048:%20Deploy%20Pods%20in%20Kubernetes%20Cluster/) | Deploy Pods in Kubernetes Cluster | `Pod`, YAML spec, `kubectl apply` | ✅ |
+| [49](./Day%2049:%20Deploy%20Applications%20with%20Kubernetes%20Deployments/) | Deploy Applications with Kubernetes Deployments | `Deployment`, ReplicaSet, self-healing | ✅ |
+| [50](./Day%2050:%20Set%20Resource%20Limits%20in%20Kubernetes%20Pods/) | Set Resource Limits in Kubernetes Pods | requests vs limits, CPU millicores, OOMKill | ✅ |
+| 51–67 | Coming soon | | 🔜 |
+
+
+---
 
 ### ⚙️ Module 5 — CI/CD & IaC `[Days 68–100]`
 > 🔜 Coming soon
