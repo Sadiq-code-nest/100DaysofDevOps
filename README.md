@@ -100,8 +100,6 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [46](./Day%2046:%20Deploy%20an%20App%20on%20Docker%20Containers/) | Deploy an App on Docker Containers | multi-service compose, volumes, env vars | ✅ |
 | [47](./Day%2047:%20Docker%20Python%20App/) | Docker Python App | Python Dockerfile, layer caching, WORKDIR | ✅ |
 
-
-# Add new Module 4 section (replace "Coming soon"):
 ### ☸️ Module 4 — Kubernetes `[Days 48–67]`
 
 | Day | Challenge | Core Concept | Status |
