@@ -107,7 +107,11 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [48](./Day%2048:%20Deploy%20Pods%20in%20Kubernetes%20Cluster/) | Deploy Pods in Kubernetes Cluster | `Pod`, YAML spec, `kubectl apply` | ✅ |
 | [49](./Day%2049:%20Deploy%20Applications%20with%20Kubernetes%20Deployments/) | Deploy Applications with Kubernetes Deployments | `Deployment`, ReplicaSet, self-healing | ✅ |
 | [50](./Day%2050:%20Set%20Resource%20Limits%20in%20Kubernetes%20Pods/) | Set Resource Limits in Kubernetes Pods | requests vs limits, CPU millicores, OOMKill | ✅ |
-| 51–67 | Coming soon | | 🔜 |
+| [51](./Day%2051:%20Execute%20Rolling%20Updates%20in%20Kubernetes/) | Execute Rolling Updates in Kubernetes | `kubectl set image`, rollout status | ✅ |
+| [52](./Day%2052:%20Revert%20Deployment%20to%20Previous%20Version%20in%20Kubernetes/) | Revert Deployment to Previous Version in Kubernetes | `kubectl rollout undo`, revision history | ✅ |
+| [53](./Day%2053:%20Resolve%20VolumeMounts%20Issue%20in%20Kubernetes/) | Resolve VolumeMounts Issue in Kubernetes | volumeMounts, emptyDir, subPath, kubectl cp | ✅ |
+| [54](./Day%2054:%20Kubernetes%20Shared%20Volumes/) | Kubernetes Shared Volumes | emptyDir, shared volume, multi-container pod | ✅ |
+
 
 
 ---
