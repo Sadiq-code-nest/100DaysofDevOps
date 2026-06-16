@@ -2,10 +2,10 @@
 # DAY 11 — Install and Configure Tomcat Server
 # Goal: Install Tomcat on stapp01, run on port 3001, deploy ROOT.war
 
-# === ON JUMP HOST: copy WAR file to app server ===
+# ON JUMP HOST: copy WAR file to app server
 scp /tmp/ROOT.war tony@stapp01:/tmp/
 
-# === SSH into App Server 1 ===
+# SSH into App Server 1
 ssh tony@stapp01
 sudo su -
 
