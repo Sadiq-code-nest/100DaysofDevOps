@@ -1,20 +1,20 @@
 <div align="center">
-
-```
+<pre>
 ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
 ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
 ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
 ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
 ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
 ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
-```
+</pre>
+</div>
 
-# 100 Days of DevOps — KodeKloud
+# 🚀 100 Days of DevOps — KodeKloud
 
-**A documented, beginner-friendly journey through real DevOps challenges**
+**A documented, beginner-friendly journey through real DevOps challenges**  
 *One task. One concept. One day at a time.*
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-58%2F100-brightgreen?style=for-the-badge&logo=checkmarx)](.)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-10%2F100-brightgreen?style=for-the-badge&logo=checkmarx)](.)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud-orange?style=for-the-badge&logo=kubernetes)](https://kodekloud.com)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](./CONTRIBUTING.md)
@@ -23,22 +23,19 @@
 
 ---
 
-## What This Repo Is
+## 🗺️ What This Repo Is
 
-This isn't just a collection of commands — it's a **learning diary**.
+This isn't just a collection of commands. it's a **learning diary**.
 
-Every day contains two files:
+Every day contains:
+- 📜 **`solution.sh`** — step-by-step commented script (the _why_, not just the _what_)
+- 📖 **`DAY_N.md`** — concept deep-dive, diagrams, tables, and the clean solution
 
-| File | Purpose |
-|------|---------|
-| `solution.sh` | Clean, commented commands — the *why*, not just the *what* |
-| `DAY_N.md` | Concept breakdown, tables, and the full solution |
-
-Whether you are following along or stuck on a task, these notes explain the thinking behind every command.
+Whether you're following along or stuck on a challenge, these notes explain the thinking behind every command.
 
 ---
 
-## Progress Tracker
+## 📚 Progress Tracker
 
 ### Module 1 — Linux Fundamentals `Days 01–20`
 
@@ -134,65 +131,69 @@ Whether you are following along or stuck on a task, these notes explain the thin
 | 68–100 | Coming soon | | 🔜 |
 
 ---
-
-## Repo Structure
+## 🗂️ Repo Structure
 
 ```
-100DaysofDevOps/
+100-days-devops/
 │
-├── README.md
+├── README.md               ← You are here
 │
-├── Day 01: Linux User Setup with Non-Interactive Shell/
-│   ├── solution.sh
-│   └── DAY_1.md
+├── Day_01/
+│   ├── solution.sh         ← Heavily commented step-by-step commands
+│   └── DAY_1.md            ← Concept explanation + clean solution
 │
-├── Day 02: Temporary User Setup with Expiry/
+├── Day_02/
 │   ├── solution.sh
 │   └── DAY_2.md
 │
-└── ... and so on for each day
+...and so on for each day
 ```
+
+Each `solution.sh` is written like a **tutorial**, not a script you blindly run — every line is explained with `#` comments.
 
 ---
 
-## Technologies Covered
+## 🛠️ Technologies Covered
+
+<div align="center">
 
 | Category | Tools |
 |----------|-------|
-| OS and Shell | Linux (CentOS / RHEL / Ubuntu), Bash |
-| Security | SELinux, SSH key auth, iptables, SSL/TLS |
-| Scheduling | Cron, cronie |
-| Configuration Management | Ansible, YAML |
-| Databases | MariaDB, MySQL, PostgreSQL |
-| Containers | Docker, Docker Compose |
-| Orchestration | Kubernetes, kubectl |
-| Version Control | Git, GitHub, Gitea |
-| CI/CD | Jenkins, pipelines |
-| Infrastructure as Code | Terraform, AWS |
-| Web Servers | Nginx, Apache, Tomcat, PHP-FPM |
+| **OS & Shell** | Linux (CentOS/RHEL), Bash Scripting |
+| **Security** | SELinux, SSH Keys, File Permissions |
+| **Scheduling** | Cron, cronie, systemd timers |
+| **Config Mgmt** | Ansible, YAML playbooks |
+| **Databases** | MariaDB, MySQL, PostgreSQL |
+| **Containers** | Docker, Docker Compose |
+| **Orchestration** | Kubernetes, kubectl |
+| **Version Control** | Git, GitHub workflows |
+| **CI/CD** | Jenkins, pipelines |
+| **IaC** | Terraform, AWS |
+| **Web Servers** | Nginx, Apache, SSL/TLS |
+
+</div>
 
 ---
 
-## How to Use This Repo
+## 🚦 How to Use This Repo
 
-**Following the challenge:**
+**Option A — Follow along with the challenge:**
 1. Sign up at [KodeKloud](https://kodekloud.com) and start the Stratos lab
-2. Open `DAY_N.md` to understand the concept before starting
-3. Try solving it yourself first
-4. Check `solution.sh` to compare your approach
+2. Open the corresponding `DAY_N.md` to understand the concept
+3. Try to solve it yourself first
+4. Use `solution.sh` to verify your approach
 
-**Just learning concepts:**
-- Each `DAY_N.md` is self-contained — no prior context needed
-- Browse any day as a focused mini-lesson on that topic
+**Option B — Just learning concepts:**
+- Browse any `DAY_N.md` for a focused mini-lesson on that topic
+- Each `.md` is self-contained — no prior context needed
 
 ---
 
-## Philosophy
+## 💡 Philosophy
 
 > "I don't want to just pass tasks — I want to understand what's happening and why."
 
-Every note here answers four questions:
-
+Every note here answers:
 - **What** does this command do?
 - **Why** is this the right approach?
 - **When** would I use this in real life?
@@ -200,30 +201,32 @@ Every note here answers four questions:
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Found a better approach or spotted an error? PRs are welcome.
+Found a better approach? Spotted an error? PRs are welcome.
 
 1. Fork the repo
-2. Create a branch: `git checkout -b improve/day-N`
+2. Create a branch: `git checkout -b improve/day-05`
 3. Commit your changes
 4. Open a Pull Request
 
 ---
 
-## Connect
+## 📬 Connect
+
+If this helped you, let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Sadiq-code-nest)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
-Sharing on LinkedIn? Use `#100DaysOfDevOps` and tag me — happy to see your progress.
+**Sharing on LinkedIn?** Tag me and use `#100DaysOfDevOps` — I'd love to see your progress!
 
 ---
 
 <div align="center">
 
-*Built with curiosity, coffee, and a lot of `man` pages*
+*Built with 🔥 curiosity, ☕ coffee, and a lot of `man` pages*
 
-[Back to Top](#)
+**[⬆ Back to Top](#)**
 
 </div>
