@@ -21,5 +21,5 @@ iptables -I INPUT 2 -p tcp --dport 3003 -j DROP
 # Verify rule order (ACCEPT must be before DROP)
 iptables -L -n --line-numbers
 
-# Save permanently (survives reboot)
+# Save permanently
 service iptables save
