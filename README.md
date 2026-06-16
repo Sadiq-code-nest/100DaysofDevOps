@@ -14,7 +14,7 @@
 **A documented, beginner-friendly journey through real DevOps challenges**  
 *One task. One concept. One day at a time.*
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-10%2F100-brightgreen?style=for-the-badge&logo=checkmarx)](.)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-60%2F100-brightgreen?style=for-the-badge&logo=checkmarx)](.)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud-orange?style=for-the-badge&logo=kubernetes)](https://kodekloud.com)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](./CONTRIBUTING.md)
@@ -216,8 +216,8 @@ Found a better approach? Spotted an error? PRs are welcome.
 
 If this helped you, let's connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sadiq-bup/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Sadiq-code-nest)
 
 **Sharing on LinkedIn?** Tag me and use `#100DaysOfDevOps` — I'd love to see your progress!
 
