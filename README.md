@@ -104,7 +104,6 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [47](./Day%2047:%20Docker%20Python%20App/) | Docker Python App | Python Dockerfile, layer caching | ✅ |
 
 ---
-
 ### Module 4 — Kubernetes `Days 48–67`
 
 | Day | Task | Key Concept | Status |
@@ -120,7 +119,9 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [56](./Day%2056:%20Deploy%20Nginx%20Web%20Server%20on%20Kubernetes%20Cluster/) | Deploy Nginx Web Server on Kubernetes Cluster | Deployment + NodePort Service, replicas | ✅ |
 | [57](./Day%2057:%20Print%20Environment%20Variables/) | Print Environment Variables | env vars, restartPolicy: Never | ✅ |
 | [58](./Day%2058:%20Deploy%20Grafana%20on%20Kubernetes%20Cluster/) | Deploy Grafana on Kubernetes Cluster | Grafana, multi-resource YAML, NodePort | ✅ |
-| 59–67 | Coming soon | | 🔜 |
+| [59](./Day%2059:%20Troubleshoot%20Deployment%20issues%20in%20Kubernetes/) | Troubleshoot Deployment Issues in Kubernetes | `kubectl describe`, ImagePullBackOff, typo fix | ✅ |
+| [60](./Day%2060:%20Persistent%20Volumes%20in%20Kubernetes/) | Persistent Volumes in Kubernetes | PV, PVC, hostPath, StorageClass, binding | ✅ |
+| 61–67 | Coming soon | | 🔜 |
 
 ---
 
