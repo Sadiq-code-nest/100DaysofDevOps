@@ -121,7 +121,10 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [58](./Day%2058:%20Deploy%20Grafana%20on%20Kubernetes%20Cluster/) | Deploy Grafana on Kubernetes Cluster | Grafana, multi-resource YAML, NodePort | ✅ |
 | [59](./Day%2059:%20Troubleshoot%20Deployment%20issues%20in%20Kubernetes/) | Troubleshoot Deployment Issues in Kubernetes | `kubectl describe`, ImagePullBackOff, typo fix | ✅ |
 | [60](./Day%2060:%20Persistent%20Volumes%20in%20Kubernetes/) | Persistent Volumes in Kubernetes | PV, PVC, hostPath, StorageClass, binding | ✅ |
-| 61–67 | Coming soon | | 🔜 |
+| [61](./Day%2061:%20Init%20Containers%20in%20Kubernetes/) | Init Containers in Kubernetes | initContainers, lifecycle order, shared volume | ✅ |
+| [62](./Day%2062:%20Manage%20Secrets%20in%20Kubernetes/) | Manage Secrets in Kubernetes | `kubectl create secret`, volume mount, base64 | ✅ |
+| [63](./Day%2063:%20Deploy%20Iron%20Gallery%20App%20on%20Kubernetes/) | Deploy Iron Gallery App on Kubernetes | namespace, two-tier app, ClusterIP + NodePort | ✅ |
+| 64–67 | Coming soon | | 🔜 |
 
 ---
 
