@@ -134,28 +134,6 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 |-----|------|-------------|--------|
 | 68–100 | Coming soon | | 🔜 |
 
----
-## 🗂️ Repo Structure
-
-```
-100-days-devops/
-│
-├── README.md               ← You are here
-│
-├── Day_01/
-│   ├── solution.sh         ← Heavily commented step-by-step commands
-│   └── DAY_1.md            ← Concept explanation + clean solution
-│
-├── Day_02/
-│   ├── solution.sh
-│   └── DAY_2.md
-│
-...and so on for each day
-```
-
-Each `solution.sh` is written like a **tutorial**, not a script you blindly run — every line is explained with `#` comments.
-
----
 
 ## 🛠️ Technologies Covered
 
