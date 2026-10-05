@@ -124,7 +124,9 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [61](./Day%2061:%20Init%20Containers%20in%20Kubernetes/) | Init Containers in Kubernetes | initContainers, lifecycle order, shared volume | ✅ |
 | [62](./Day%2062:%20Manage%20Secrets%20in%20Kubernetes/) | Manage Secrets in Kubernetes | `kubectl create secret`, volume mount, base64 | ✅ |
 | [63](./Day%2063:%20Deploy%20Iron%20Gallery%20App%20on%20Kubernetes/) | Deploy Iron Gallery App on Kubernetes | namespace, two-tier app, ClusterIP + NodePort | ✅ |
-| 64–67 | Coming soon | | 🔜 |
+| [64](./Day%2064:%20Fix%20Python%20App%20Deployed%20on%20Kubernetes%20Cluster/) | Fix Python App Deployed on Kubernetes Cluster | ImagePullBackOff, wrong image, targetPort fix | ✅ |
+| [65](./Day%2065:%20Deploy%20Redis%20Deployment%20on%20Kubernetes/) | Deploy Redis Deployment on Kubernetes | ConfigMap as volume, emptyDir, CPU request | ✅ |
+| 66–67 | Coming soon | | 🔜 |
 
 ---
 
