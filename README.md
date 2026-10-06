@@ -14,7 +14,7 @@
 **A documented, beginner-friendly journey through real DevOps challenges**  
 *One task. One concept. One day at a time.*
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-60%2F100-brightgreen?style=for-the-badge&logo=checkmarx)](.)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-70%2F100-brightgreen?style=for-the-badge&logo=checkmarx)](.)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud-orange?style=for-the-badge&logo=kubernetes)](https://kodekloud.com)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](./CONTRIBUTING.md)
