@@ -127,7 +127,7 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 | [64](./Day%2064:%20Fix%20Python%20App%20Deployed%20on%20Kubernetes%20Cluster/) | Fix Python App Deployed on Kubernetes Cluster | ImagePullBackOff, wrong image, targetPort fix | ✅ |
 | [65](./Day%2065:%20Deploy%20Redis%20Deployment%20on%20Kubernetes/) | Deploy Redis Deployment on Kubernetes | ConfigMap as volume, emptyDir, CPU request | ✅ |
 | [66](./Day%2066:%20Deploy%20MySQL%20on%20Kubernetes/) | Deploy MySQL on Kubernetes | PV + PVC + Secrets + env vars from secretKeyRef | ✅ |
-| 67 | Coming soon | | 🔜 |
+| 67 | Coming soon  |  |  | | 🔜 |
 
 ---
 
