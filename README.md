@@ -135,7 +135,8 @@ Whether you're following along or stuck on a challenge, these notes explain the 
 
 | Day | Task | Key Concept | Status |
 |-----|------|-------------|--------|
-| 68–100 | Coming soon | | 🔜 |
+| [68](./Day%2068:%20Set%20Up%20Jenkins%20Server/) | Set Up Jenkins Server | apt install, jenkins.io repo, initial setup | ✅ |
+| 69–100 | Coming soon | | 🔜 |
 
 
 ## 🛠️ Technologies Covered
